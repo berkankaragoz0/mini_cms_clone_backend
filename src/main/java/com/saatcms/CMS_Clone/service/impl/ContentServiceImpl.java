@@ -1,8 +1,7 @@
 package com.saatcms.CMS_Clone.service.impl;
 
-import com.saatcms.CMS_Clone.da.ContentDto;
+import com.saatcms.CMS_Clone.pojo.ContentDto;
 import com.saatcms.CMS_Clone.model.Content;
-import com.saatcms.CMS_Clone.model.License;
 import com.saatcms.CMS_Clone.repo.ContentRepository;
 import com.saatcms.CMS_Clone.repo.LicenseRepository;
 import com.saatcms.CMS_Clone.service.ContentService;
@@ -12,7 +11,6 @@ import org.springframework.stereotype.Service;
 import javax.transaction.Transactional;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor

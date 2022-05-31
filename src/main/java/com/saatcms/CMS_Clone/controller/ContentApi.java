@@ -1,6 +1,6 @@
 package com.saatcms.CMS_Clone.controller;
 
-import com.saatcms.CMS_Clone.da.ContentDto;
+import com.saatcms.CMS_Clone.pojo.ContentDto;
 import com.saatcms.CMS_Clone.service.ContentService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

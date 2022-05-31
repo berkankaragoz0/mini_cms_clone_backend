@@ -1,7 +1,6 @@
 package com.saatcms.CMS_Clone.service;
 
-import com.saatcms.CMS_Clone.da.ContentDto;
-import com.saatcms.CMS_Clone.da.LicenseDto;
+import com.saatcms.CMS_Clone.pojo.LicenseDto;
 
 import java.util.List;
 

@@ -1,6 +1,5 @@
-package com.saatcms.CMS_Clone.da;
+package com.saatcms.CMS_Clone.pojo;
 
-import com.saatcms.CMS_Clone.model.Content;
 import lombok.*;
 
 @Data

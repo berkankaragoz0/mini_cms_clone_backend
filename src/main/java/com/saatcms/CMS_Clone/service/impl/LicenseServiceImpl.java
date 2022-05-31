@@ -1,6 +1,6 @@
 package com.saatcms.CMS_Clone.service.impl;
 
-import com.saatcms.CMS_Clone.da.LicenseDto;
+import com.saatcms.CMS_Clone.pojo.LicenseDto;
 import com.saatcms.CMS_Clone.model.License;
 import com.saatcms.CMS_Clone.repo.LicenseRepository;
 import com.saatcms.CMS_Clone.service.LicenseService;

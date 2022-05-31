@@ -1,9 +1,6 @@
-package com.saatcms.CMS_Clone.da;
+package com.saatcms.CMS_Clone.pojo;
 
-import com.sun.istack.NotNull;
 import lombok.*;
-
-import java.util.List;
 
 @Data
 @NoArgsConstructor

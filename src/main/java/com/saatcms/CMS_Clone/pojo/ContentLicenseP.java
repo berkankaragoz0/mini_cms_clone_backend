@@ -1,4 +1,4 @@
-package com.saatcms.CMS_Clone.pojo;
+/*package com.saatcms.CMS_Clone.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -15,3 +15,4 @@ public class ContentLicenseP {
     private Long content_id;
     private Long license_id;
 }
+*/

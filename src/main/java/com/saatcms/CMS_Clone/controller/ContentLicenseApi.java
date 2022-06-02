@@ -1,4 +1,4 @@
-package com.saatcms.CMS_Clone.controller;
+/*package com.saatcms.CMS_Clone.controller;
 
 import com.saatcms.CMS_Clone.pojo.ContentDto;
 import com.saatcms.CMS_Clone.pojo.ContentLicenseP;
@@ -21,3 +21,4 @@ public class ContentLicenseApi {
         return ResponseEntity.ok(contentLicenseService.save(contentLicenseP));
     }
 }
+*/

@@ -1,4 +1,4 @@
-package com.saatcms.CMS_Clone.model;
+/*package com.saatcms.CMS_Clone.model;
 
 import lombok.*;
 
@@ -19,3 +19,4 @@ public class ContentLicense {
     @Column(name="license_id", length = 255)
     private Long license_id;
 }
+*/

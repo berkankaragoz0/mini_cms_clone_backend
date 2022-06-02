@@ -1,4 +1,4 @@
-package com.saatcms.CMS_Clone.service;
+/*package com.saatcms.CMS_Clone.service;
 
 import com.saatcms.CMS_Clone.model.ContentLicense;
 import com.saatcms.CMS_Clone.pojo.ContentDto;
@@ -14,3 +14,4 @@ public interface ContentLicenseService {
 
     List<ContentLicenseP> getAll();
 }
+*/

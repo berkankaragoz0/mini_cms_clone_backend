@@ -1,4 +1,4 @@
-package com.saatcms.CMS_Clone.service.impl;
+/*package com.saatcms.CMS_Clone.service.impl;
 
 import com.saatcms.CMS_Clone.model.Content;
 import com.saatcms.CMS_Clone.model.ContentLicense;
@@ -43,3 +43,4 @@ public class ContentLicenseServiceImpl implements ContentLicenseService {
         return null;
     }
 }
+*/
